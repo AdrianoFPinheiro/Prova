@@ -1,4 +1,4 @@
-package com.example.adriano.testepontotel;
+package com.example.adriano.teste;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -28,7 +28,6 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.exemplo.informacoes.*;
 import com.exemplo.informacoes.Pessoa;
 
 

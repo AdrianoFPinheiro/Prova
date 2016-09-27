@@ -1,4 +1,4 @@
-package com.example.adriano.testepontotel;
+package com.example.adriano.teste;
 
 import android.app.Activity;
 import android.os.Bundle;
